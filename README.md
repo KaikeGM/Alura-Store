@@ -15,9 +15,6 @@ A Loja 4 apresenta o **menor faturamento** (23.6%), significativamente abaixo da
 - **Loja 2**: 25.4%  
 - **Loja 3**: 24.9%  
 
-![Faturamento por Loja (Radar)](https://via.placeholder.com/400x300?text=Gráfico+Radar+Faturamento)  
-*Gráfico de radar evidencia a discrepância no faturamento da Loja 4.*
-
 ---
 
 ### 2. Avaliação Média dos Clientes  
