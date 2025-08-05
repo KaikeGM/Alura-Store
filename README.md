@@ -1,6 +1,4 @@
-# Challenge-Alura-Store
-
-# Relatório Final: Recomendação de Venda de Loja 📊
+# Challenge Telecom X Analista de Dados Parte 1/2
 
 ## 📌 Introdução  
 Este relatório tem como objetivo recomendar qual das quatro lojas analisadas o Senhor João deve vender, considerando métricas críticas de desempenho: **faturamento total**, **avaliação de clientes**, **frete médio** e **categorias de produtos**. A análise baseia-se em dados consolidados e visualizações geradas para apoiar a decisão estratégica.
